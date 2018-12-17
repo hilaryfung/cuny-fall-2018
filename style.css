@@ -41,3 +41,7 @@ h3 {
   margin-top: -0.5em;
   margin-bottom: 0;    
 }
+
+#chase {
+  background-image: url(images/chasemug.png);
+}
